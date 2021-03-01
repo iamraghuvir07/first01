@@ -81,5 +81,6 @@ func main() {
 
 	t1, _ := time.Parse(time.RFC822, "18 Feb 21 15:30 IST")
 	fmt.Printf("\n Custom Date %v \n", t1)
+	fmt.Println("Thank you")
 
 }
